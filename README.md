@@ -13,7 +13,7 @@ Computer Science | Software Developer
 - Frontend: React, TailwindCSS, JavaFX and PyQT
 
 ### 📌 Featured Projects
-- SQL Evaluator - a SQL Online Evaluator (like HackerRank)
+- SQL Evaluator - a SQL Online Evaluator (like HackerRank) that consumes freely configurable local postgres instances 
 - Servimedas Agenda - Therapist sessions administrator and database migration system for Servimedas SAS.
 - Hermes – Development of a 1m2 prototype mat capable of generating electricity through piezoelectric sensors
 - Swam – A hospital management system designed to handle multi-appointment scheduling based on patient needs and healthcare professional availability.
